@@ -46,19 +46,19 @@ section {
 }
 
 .card_img1 {
-    background: url("/assets/images/sae1.JPG") no-repeat center center/cover;
+    background: url("../images/sae1.JPG") no-repeat center center/cover;
 }
 .card_img2 {
-    background: url("/assets/images/sae2.JPG") no-repeat center center/cover;
+    background: url("../images/sae2.JPG") no-repeat center center/cover;
 }
 .card_img3 {
-    background: url("/assets/images/sae3.JPG") no-repeat center center/cover;
+    background: url("../images/sae3.JPG") no-repeat center center/cover;
 }
 .card_img4 {
-    background: url("/assets/images/sae4.JPG") no-repeat center center/cover;
+    background: url("../images/sae4.JPG") no-repeat center center/cover;
 }
 .card_img5 {
-    background: url("/assets/images/sae5.JPG") no-repeat center center/cover;
+    background: url("../images/sae5.JPG") no-repeat center center/cover;
 }
 
 .card.noImg .div_img {
