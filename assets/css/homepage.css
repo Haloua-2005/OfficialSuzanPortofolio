@@ -12,7 +12,7 @@
 }
 
 #homeAcceuil {
-    background: url("../assets/images/background.jpg") no-repeat center center/cover;
+    background: url("../images/background.jpg") no-repeat center center/cover;
 }
 
 
@@ -83,7 +83,7 @@
 }
 
 #homeTravel .img {
-    background: url('../assets/images/IMG_8200 2.jpg') no-repeat center center/cover;
+    background: url('../images/IMG_8200 2.jpg') no-repeat center center/cover;
     padding: 15rem 0;
     border: var(--white) 15px solid;
 }
