@@ -128,12 +128,12 @@ header.active {
 }
 .burger.active .line1 {
     rotate: -45deg;
-    translate: 0 0.5ch;
+    translate: 0 0.4ch;
 }
 .burger.active .line2 {
     opacity: 0;
 }
 .burger.active .line3 {
     rotate: 45deg;
-    translate: 0 -0.5ch;
+    translate: 0 -0.4ch;
 }
