@@ -46,25 +46,25 @@ section  {
 }
 
 .stage_img1 {
-    background: url("/assets/images/stage/2.JPG") no-repeat center center/cover;
+    background: url("../images/stage/2.JPG") no-repeat center center/cover;
 }
 .stage_img2 {
-    background: url("/assets/images/stage/3.JPG") no-repeat center center/cover;
+    background: url("../images/stage/3.JPG") no-repeat center center/cover;
 }
 .stage_img3 {
-    background: url("/assets/images/stage/4.JPG") no-repeat center center/cover;
+    background: url("../images/stage/4.JPG") no-repeat center center/cover;
 }
 .stage_img4 {
-    background: url("/assets/images/stage/5.JPG") no-repeat center center/cover;
+    background: url("../images/stage/5.JPG") no-repeat center center/cover;
 }
 .stage_img5 {
-    background: url("/assets/images/stage/1.JPG") no-repeat center center/cover;
+    background: url("../images/stage/1.JPG") no-repeat center center/cover;
 }
 .stage_img6 {
-    background: url("/assets/images/stage/7.JPG") no-repeat center center/cover;
+    background: url("../images/stage/7.JPG") no-repeat center center/cover;
 }
 .stage_img7 {
-    background: url("/assets/images/stage/10.JPG") no-repeat center center/cover;
+    background: url("../images/stage/10.JPG") no-repeat center center/cover;
 
 }
 
